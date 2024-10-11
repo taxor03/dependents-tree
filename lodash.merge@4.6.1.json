@@ -1,0 +1,1737 @@
+{
+    "package": "lodash.merge",
+    "version": "4.6.1",
+    "dep_nums": 78,
+    "dependents": [
+        {
+            "package": "@commitlint/resolve-extends",
+            "version": "6.1.3",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "@commitlint/load",
+                    "version": "6.1.3",
+                    "dep_nums": 7,
+                    "dependents": [
+                        {
+                            "package": "@commitlint/cli",
+                            "version": "6.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@commitlint/core",
+                            "version": "6.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@commitlint/prompt",
+                            "version": "6.1.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "cz-changelog-peakfijn",
+                            "version": "0.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@atomist/spring-sdm",
+                            "version": "0.1.0-20180620024549",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "dev-hook-utils",
+                            "version": "1.0.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@atomist/sample-sdm",
+                            "version": "0.5.1-20180517100747",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@commitlint/core",
+                    "version": "6.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@commitlint/load",
+            "version": "6.1.3",
+            "dep_nums": 7,
+            "dependents": [
+                {
+                    "package": "@commitlint/cli",
+                    "version": "6.2.0",
+                    "dep_nums": 22,
+                    "dependents": [
+                        {
+                            "package": "sanji-common-devs-ui",
+                            "version": "11.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "commitlint-config-travi",
+                            "version": "1.2.30",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "commitlint",
+                            "version": "6.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@dxcli/dev-commitmsg",
+                            "version": "0.0.4",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "typedock",
+                            "version": "1.0.9",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "anvilabs-scripts-node",
+                            "version": "0.1.0-alpha.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@commitlint/travis-cli",
+                            "version": "6.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@makeomatic/deploy",
+                            "version": "5.1.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "fbmessenger",
+                            "version": "5.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@kleros/kathari",
+                            "version": "0.12.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ybiq",
+                            "version": "1.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "semantic-commitlint",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "kleros-js-scripts",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "kleros-scripts",
+                            "version": "0.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@fees/builds",
+                            "version": "1.0.8",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "py-js-utils",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@walid-mokrani/react-scripts",
+                            "version": "1.1.4",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "npm-scripts-conventional-changelog",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "moe-scripts",
+                            "version": "0.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@mixmaxhq/semantic-commitlint",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@dxcli/semantic-release",
+                            "version": "0.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@brikcss/merge",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@commitlint/core",
+                    "version": "6.2.0",
+                    "dep_nums": 5,
+                    "dependents": [
+                        {
+                            "package": "@commitlint/cli",
+                            "version": "6.1.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@mixmaxhq/semantic-commitlint",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "elint",
+                            "version": "1.1.0-rc.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "semantic-commitlint",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@commitlint/prompt",
+                            "version": "6.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@commitlint/prompt",
+                    "version": "6.1.3",
+                    "dep_nums": 4,
+                    "dependents": [
+                        {
+                            "package": "@kleros/kathari",
+                            "version": "0.12.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "kleros-js-scripts",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "kleros-scripts",
+                            "version": "0.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@commitlint/prompt-cli",
+                            "version": "6.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "cz-changelog-peakfijn",
+                    "version": "0.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@atomist/spring-sdm",
+                    "version": "0.1.0-20180620024549",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "dev-hook-utils",
+                    "version": "1.0.3",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@atomist/sample-sdm",
+                    "version": "0.5.1-20180517100747",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@commitlint/cli",
+            "version": "6.2.0",
+            "dep_nums": 22,
+            "dependents": [
+                {
+                    "package": "sanji-common-devs-ui",
+                    "version": "11.3.0",
+                    "dep_nums": 42,
+                    "dependents": [
+                        {
+                            "package": "@thingspro-web/navbar-ui",
+                            "version": "2.6.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/fwupgrade-ui",
+                            "version": "2.3.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/import-config-ui",
+                            "version": "2.6.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/maintenance-ui",
+                            "version": "2.5.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cellular-ui",
+                            "version": "3.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cron-ui",
+                            "version": "3.2.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cpu-ui",
+                            "version": "3.2.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cellular-status-ui",
+                            "version": "0.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/disk-ui",
+                            "version": "2.3.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/device-info-ui",
+                            "version": "2.3.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/firewall-ui",
+                            "version": "1.1.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/qos-ui",
+                            "version": "1.1.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/gps-ui",
+                            "version": "3.3.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/signal-tracker-ui",
+                            "version": "0.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/control-ui",
+                            "version": "4.5.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/memory-ui",
+                            "version": "2.1.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/uc8540-cellular-status-ui",
+                            "version": "0.0.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/datalogger-ui",
+                            "version": "2.5.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/modbusslave-ui",
+                            "version": "2.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/wifi-ui",
+                            "version": "2.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/netinfo-ui",
+                            "version": "1.6.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/notification-ui",
+                            "version": "5.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/openvpn-client-ui",
+                            "version": "1.4.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/portforward-ui",
+                            "version": "2.1.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/loadbalance-ui",
+                            "version": "1.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/routing-ui",
+                            "version": "1.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/serial-ui",
+                            "version": "3.1.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/sidebar-ui",
+                            "version": "2.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/time-ui",
+                            "version": "3.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/snmp-ui",
+                            "version": "1.1.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/ssh-ui",
+                            "version": "1.5.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/lan-ui",
+                            "version": "0.2.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/token-ui",
+                            "version": "2.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/uc8540-cellular-settings-ui",
+                            "version": "0.0.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cs-remote-control-ui",
+                            "version": "2.3.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/uc8540-signal-tracker-ui",
+                            "version": "0.1.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/uc8540-vrrp-ui",
+                            "version": "0.0.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/vrrp-ui",
+                            "version": "0.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/wan-ui",
+                            "version": "0.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/wifi-macfilter-ui",
+                            "version": "1.2.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/cellular-settings-ui",
+                            "version": "0.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@thingspro-web/admin-ui",
+                            "version": "1.4.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "commitlint-config-travi",
+                    "version": "1.2.30",
+                    "dep_nums": 3,
+                    "dependents": [
+                        {
+                            "package": "commitlint-config-gain",
+                            "version": "1.0.6",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "commitlint-config-traverson",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "commitlint-config-dsmjs",
+                            "version": "1.0.3",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "commitlint",
+                    "version": "6.2.0",
+                    "dep_nums": 2,
+                    "dependents": [
+                        {
+                            "package": "@socifi/commitlint-config",
+                            "version": "0.5.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "tabler-react",
+                            "version": "1.10.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@dxcli/dev-commitmsg",
+                    "version": "0.0.4",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "@dxcli/dev-semantic-release",
+                            "version": "0.1.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "typedock",
+                    "version": "1.0.9",
+                    "dep_nums": 2,
+                    "dependents": [
+                        {
+                            "package": "docks.vuejs",
+                            "version": "1.0.14",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "docks-angular",
+                            "version": "1.0.20",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "anvilabs-scripts-node",
+                    "version": "0.1.0-alpha.10",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "anvilabs-scripts-backpack",
+                            "version": "0.1.0-alpha.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@commitlint/travis-cli",
+                    "version": "6.2.0",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "ybiq",
+                            "version": "1.3.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@makeomatic/deploy",
+                    "version": "5.1.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "fbmessenger",
+                    "version": "5.0.1",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@kleros/kathari",
+                    "version": "0.12.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "ybiq",
+                    "version": "1.3.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "semantic-commitlint",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "kleros-js-scripts",
+                    "version": "0.0.1",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "kleros-scripts",
+                    "version": "0.10.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@fees/builds",
+                    "version": "1.0.8",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "py-js-utils",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@walid-mokrani/react-scripts",
+                    "version": "1.1.4",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "npm-scripts-conventional-changelog",
+                    "version": "0.0.1",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "moe-scripts",
+                    "version": "0.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@mixmaxhq/semantic-commitlint",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@dxcli/semantic-release",
+                    "version": "0.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "@brikcss/merge",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "gradle-to-js",
+            "version": "1.2.1",
+            "dep_nums": 16,
+            "dependents": [
+                {
+                    "package": "ern-core",
+                    "version": "0.31.0",
+                    "dep_nums": 14,
+                    "dependents": [
+                        {
+                            "package": "ern-composite-gen",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-container-gen",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-runner-gen",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-api-gen",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-container-gen-android",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-container-gen-ios",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-cauldron-api",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-api-impl-gen",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-container-transformer",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-container-publisher",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-runner-gen-ios",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-runner-gen-android",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-orchestrator",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "ern-local-cli",
+                            "version": "0.31.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "nativescript-app-sync-cli",
+                    "version": "1.0.1",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "nativescript-app-sync",
+                            "version": "1.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "code-push-cli",
+                    "version": "2.1.9",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "abcdefgtest",
+                            "version": "1.2.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "nativescript-code-push-cli",
+                    "version": "1.0.7",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "nativescript-code-push",
+                            "version": "2.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "push-lewan",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "license-lookup",
+                    "version": "0.0.10",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "generator-fabric",
+                    "version": "0.0.35",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "marmothq-cli",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "marmot-cli",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "code-push-cli-yx",
+                    "version": "2.1.10",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "appcenter-cli-android",
+                    "version": "1.1.9",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "reliable-cli",
+                    "version": "0.1.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "rn-scaffold",
+                    "version": "0.0.10",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "rn-structure",
+                    "version": "0.2.7",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "rnfb-cli",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "appcenter-cli",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@everymatrix/ufe-react",
+            "version": "0.0.1",
+            "dep_nums": 6,
+            "dependents": [
+                {
+                    "package": "@everymatrix/ufe-utils",
+                    "version": "0.0.1",
+                    "dep_nums": 6,
+                    "dependents": [
+                        {
+                            "package": "@everymatrix/ufe-webapi",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-core",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-components",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-user",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-finance",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-casino",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@everymatrix/ufe-core",
+                    "version": "0.0.1",
+                    "dep_nums": 4,
+                    "dependents": [
+                        {
+                            "package": "@everymatrix/ufe-components",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-user",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-finance",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-casino",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@everymatrix/ufe-components",
+                    "version": "0.0.1",
+                    "dep_nums": 3,
+                    "dependents": [
+                        {
+                            "package": "@everymatrix/ufe-user",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-finance",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-casino",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@everymatrix/ufe-user",
+                    "version": "0.0.1",
+                    "dep_nums": 2,
+                    "dependents": [
+                        {
+                            "package": "@everymatrix/ufe-finance",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@everymatrix/ufe-casino",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@everymatrix/ufe-finance",
+                    "version": "0.0.1",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "@everymatrix/ufe-casino",
+                            "version": "0.0.1",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@everymatrix/ufe-casino",
+                    "version": "0.0.1",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@uppy/companion",
+            "version": "1.0.0",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "@mnemotix/cortex-uploader",
+                    "version": "0.0.10",
+                    "dep_nums": 3,
+                    "dependents": [
+                        {
+                            "package": "@mnemotix/cortex-form",
+                            "version": "0.0.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@mnemotix/cortex-addressbook",
+                            "version": "0.0.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        },
+                        {
+                            "package": "@mnemotix/cortex-finder",
+                            "version": "0.0.10",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "package": "metalsmith-json-loader",
+            "version": "1.1.2",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "@fesk/plugin-nunjucks",
+                    "version": "1.1.2",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "metalsmith-config-fesk",
+                            "version": "1.1.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "package": "find-config-up",
+            "version": "1.1.1",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "create-any-cli",
+                    "version": "1.3.0",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "create-react-microservice",
+                            "version": "1.0.5",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "flow-mono-cli",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@scispike/nodejs-support",
+            "version": "1.2.0-rc.1",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "@scispike/acl",
+                    "version": "1.0.0-rc.1",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "@scispike/domain-object-security",
+                            "version": "1.0.0-rc.2",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "@scispike/google-cloud-support",
+                    "version": "1.0.3-rc.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "js-gardener",
+            "version": "1.31.7",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "object-rewrite",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "dy-alchemy",
+                    "version": "1.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "babel-preset-kyt-core",
+            "version": "1.0.0-alpha.023d1a5e",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "kyt",
+                    "version": "1.0.0-alpha.023d1a5e",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "babel-preset-kyt-react",
+                    "version": "1.0.0-alpha.023d1a5e",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "hornet-js-passport",
+            "version": "5.4.0",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "applitutoriel-js-lite",
+                    "version": "5.4.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                },
+                {
+                    "package": "applitutoriel-js",
+                    "version": "5.4.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "browsertime",
+            "version": "3.0.1",
+            "dep_nums": 2,
+            "dependents": [
+                {
+                    "package": "webcoach",
+                    "version": "2.0.2",
+                    "dep_nums": 1,
+                    "dependents": [
+                        {
+                            "package": "sitespeed.io",
+                            "version": "7.0.0",
+                            "dep_nums": 0,
+                            "dependents": {}
+                        }
+                    ]
+                },
+                {
+                    "package": "sitespeed.io",
+                    "version": "7.0.0-alpha.1",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@increment/graphql",
+            "version": "0.25.0",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "@increment/app",
+                    "version": "0.25.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "lambda-serverless-api",
+            "version": "1.11.0",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "lambda-example",
+                    "version": "1.10.6",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@feathers-plus/generator-feathers-plus",
+            "version": "0.2.31",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "@feathers-plus/cli",
+                    "version": "0.4.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "@commitlint/config-patternplate",
+            "version": "6.1.3",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "commitlint-config-patternplate",
+                    "version": "6.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "sitespeed.io",
+            "version": "6.5.4",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "chrometrace-sitespeedio-plugin",
+                    "version": "2.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "webcoach",
+            "version": "3.1.1",
+            "dep_nums": 1,
+            "dependents": [
+                {
+                    "package": "sitespeed.io",
+                    "version": "8.0.0",
+                    "dep_nums": 0,
+                    "dependents": []
+                }
+            ]
+        },
+        {
+            "package": "flow-mono-cli",
+            "version": "1.4.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ember-custom-actions",
+            "version": "3.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@dwp/govuk-casa",
+            "version": "2.3.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "create-treats-app",
+            "version": "0.1.0-alpha",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@idearium/cli",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "create-config",
+            "version": "2.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "dimi",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "shrimpit",
+            "version": "0.17.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "sloth-logger",
+            "version": "2.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "then-busboy",
+            "version": "2.1.5",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "freetool",
+            "version": "0.0.4",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "mockfoundry",
+            "version": "1.0.0-alpha.2",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "config-js",
+            "version": "1.1.10",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@feathers-plus/graphql",
+            "version": "1.10.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@cotype/serverless-next",
+            "version": "0.1.3",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "lmr-brandplatform-test-1",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "lmr-brandplatform",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "lambundaler",
+            "version": "0.11.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "laborious",
+            "version": "0.1.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "arui-scripts",
+            "version": "2.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "kyt",
+            "version": "1.0.0-alpha.023d1a5e",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "koa-app-base",
+            "version": "3.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "apidoc2dts",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@farskid/a11y",
+            "version": "0.3.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ko-component-tester-fork",
+            "version": "3.3.2",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-rule",
+            "version": "9.20.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "materialize-react",
+            "version": "0.3.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "json-schema-to-proptypes",
+            "version": "0.1.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-sql",
+            "version": "7.5.0-rc-godfather.10",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "node-red-contrib-home-assistant-websocket",
+            "version": "0.10.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "nodebb-plugin-imgbed",
+            "version": "1.1.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "parasprite",
+            "version": "1.0.0-beta.8",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "react-month-picker-calendar",
+            "version": "1.1.11",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "react-visual-regression",
+            "version": "0.0.10",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "serverless-vpc-plugin",
+            "version": "0.1.8",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-schedule",
+            "version": "6.0.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "simplidata-web-sdk",
+            "version": "0.2.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "jest-axe",
+            "version": "2.1.3",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@visionagency/feathers-plus-graphql",
+            "version": "1.10.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-jsonrpc",
+            "version": "6.4.0-rc-godfather.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "treats",
+            "version": "0.1.0-alpha",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "umeboshi-config-vue",
+            "version": "0.4.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-codec-iso8583",
+            "version": "6.2.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-ftp",
+            "version": "6.1.0-rc-diesel.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ionic2-custom-icons",
+            "version": "0.6.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-file",
+            "version": "6.2.0-rc-godfather.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-front-react",
+            "version": "10.5.0-rc-godfather.2",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-codec-payshield",
+            "version": "7.0.0-rc-dss.10",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-http",
+            "version": "7.4.0-rc-godfather.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-codec-ndc",
+            "version": "7.0.0-rc-dss.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-mail",
+            "version": "7.2.0-rc-godfather.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ghs-umami-tonkotsu-curator-compiler",
+            "version": "6.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-script",
+            "version": "6.1.0-rc-godfather.1",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@tadashi/unflatten-object",
+            "version": "1.0.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-port-tcp",
+            "version": "6.2.0-rc-godfather.2",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@shawee/thanos",
+            "version": "0.2.2",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "ut-tools",
+            "version": "6.10.0",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@dylanvann/flow-mono-cli",
+            "version": "0.0.0-development",
+            "dep_nums": 0,
+            "dependents": []
+        },
+        {
+            "package": "@biotope/build",
+            "version": "5.3.10",
+            "dep_nums": 0,
+            "dependents": []
+        }
+    ]
+}
