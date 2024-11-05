@@ -1,0 +1,507 @@
+{
+    "package": "lodash.merge",
+    "version": "4.6.2",
+    "dep_nums": 7754,
+    "dependents": [
+        {
+            "no": 1,
+            "package": "eslint",
+            "version": "8.57.1"
+        },
+        {
+            "no": 2,
+            "package": "concordance",
+            "version": "3.0.0"
+        },
+        {
+            "no": 3,
+            "package": "cheerio",
+            "version": "0.22.0"
+        },
+        {
+            "no": 4,
+            "package": "@commitlint/load",
+            "version": "19.5.0"
+        },
+        {
+            "no": 5,
+            "package": "yam",
+            "version": "1.0.0"
+        },
+        {
+            "no": 6,
+            "package": "markdown-it-terminal",
+            "version": "0.4.0"
+        },
+        {
+            "no": 7,
+            "package": "probe-image-size",
+            "version": "7.2.3"
+        },
+        {
+            "no": 8,
+            "package": "dynamics-contracts-x",
+            "version": "2.0.0"
+        },
+        {
+            "no": 9,
+            "package": "zona-x",
+            "version": "1.27.0"
+        },
+        {
+            "no": 10,
+            "package": "@opentelemetry/sdk-metrics",
+            "version": "1.15.2"
+        },
+        {
+            "no": 11,
+            "package": "gassefals",
+            "version": "2.2.1"
+        },
+        {
+            "no": 12,
+            "package": "enefti-galeri",
+            "version": "1.1.0"
+        },
+        {
+            "no": 13,
+            "package": "broccoli-concat",
+            "version": "4.2.5"
+        },
+        {
+            "no": 14,
+            "package": "ip-address",
+            "version": "6.4.0"
+        },
+        {
+            "no": 15,
+            "package": "@tailwindcss/typography",
+            "version": "0.5.15"
+        },
+        {
+            "no": 16,
+            "package": "xobos",
+            "version": "1.1.3"
+        },
+        {
+            "no": 17,
+            "package": "@toruslabs/http-helpers",
+            "version": "3.4.0"
+        },
+        {
+            "no": 18,
+            "package": "gatsby-plugin-feed",
+            "version": "3.15.0"
+        },
+        {
+            "no": 19,
+            "package": "@trufflesuite/chromafi",
+            "version": "3.0.0"
+        },
+        {
+            "no": 20,
+            "package": "accord",
+            "version": "0.29.0"
+        },
+        {
+            "no": 21,
+            "package": "vxx",
+            "version": "1.2.2"
+        },
+        {
+            "no": 22,
+            "package": "rcloader",
+            "version": "0.2.2"
+        },
+        {
+            "no": 23,
+            "package": "wskongkoin",
+            "version": "8.16.2"
+        },
+        {
+            "no": 24,
+            "package": "@toruslabs/torus-embed",
+            "version": "1.41.3"
+        },
+        {
+            "no": 25,
+            "package": "material-ui",
+            "version": "0.20.2"
+        },
+        {
+            "no": 26,
+            "package": "@ant-design/pro-layout",
+            "version": "6.38.22"
+        },
+        {
+            "no": 27,
+            "package": "@ant-design/pro-form",
+            "version": "1.74.7"
+        },
+        {
+            "no": 28,
+            "package": "hullabaloo-config-manager",
+            "version": "1.1.1"
+        },
+        {
+            "no": 29,
+            "package": "webdriver",
+            "version": "5.23.0"
+        },
+        {
+            "no": 30,
+            "package": "prettier-eslint",
+            "version": "8.8.2"
+        },
+        {
+            "no": 31,
+            "package": "openapi-schema-validator",
+            "version": "12.1.3"
+        },
+        {
+            "no": 32,
+            "package": "tsdx",
+            "version": "0.14.1"
+        },
+        {
+            "no": 33,
+            "package": "selenium-standalone",
+            "version": "6.24.0"
+        },
+        {
+            "no": 34,
+            "package": "@google-cloud/firestore",
+            "version": "0.15.4"
+        },
+        {
+            "no": 35,
+            "package": "react-intl-universal",
+            "version": "2.11.3"
+        },
+        {
+            "no": 36,
+            "package": "google-auth-library",
+            "version": "0.12.0"
+        },
+        {
+            "no": 37,
+            "package": "@open-web3/orml-type-definitions",
+            "version": "1.1.4"
+        },
+        {
+            "no": 38,
+            "package": "microbundle-crl",
+            "version": "0.13.11"
+        },
+        {
+            "no": 39,
+            "package": "to-json-schema",
+            "version": "0.2.5"
+        },
+        {
+            "no": 40,
+            "package": "apollo-language-server",
+            "version": "1.26.9"
+        },
+        {
+            "no": 41,
+            "package": "microbundle",
+            "version": "0.15.1"
+        },
+        {
+            "no": 42,
+            "package": "think-helper",
+            "version": "1.1.4"
+        },
+        {
+            "no": 43,
+            "package": "minecraft-protocol",
+            "version": "1.50.0"
+        },
+        {
+            "no": 44,
+            "package": "@toruslabs/openlogin",
+            "version": "2.13.0"
+        },
+        {
+            "no": 45,
+            "package": "node-jose",
+            "version": "0.11.1"
+        },
+        {
+            "no": 46,
+            "package": "@web3auth/openlogin-adapter",
+            "version": "1.2.4"
+        },
+        {
+            "no": 47,
+            "package": "@web3auth/ui",
+            "version": "1.2.0"
+        },
+        {
+            "no": 48,
+            "package": "@vue/cli-ui",
+            "version": "4.5.19"
+        },
+        {
+            "no": 49,
+            "package": "twin.macro",
+            "version": "2.8.2"
+        },
+        {
+            "no": 50,
+            "package": "caporal",
+            "version": "0.10.0"
+        },
+        {
+            "no": 51,
+            "package": "progressbar.js",
+            "version": "1.1.1"
+        },
+        {
+            "no": 52,
+            "package": "native-base",
+            "version": "3.4.28"
+        },
+        {
+            "no": 53,
+            "package": "@teambit/legacy",
+            "version": "1.0.759"
+        },
+        {
+            "no": 54,
+            "package": "@dogmalang/core",
+            "version": "1.0.0-rc8.0"
+        },
+        {
+            "no": 55,
+            "package": "@opentelemetry/tracing",
+            "version": "0.24.0"
+        },
+        {
+            "no": 56,
+            "package": "graphql-jit",
+            "version": "0.8.6"
+        },
+        {
+            "no": 57,
+            "package": "@chakra-ui/utils",
+            "version": "1.0.0-rc.2"
+        },
+        {
+            "no": 58,
+            "package": "gulp-chmod",
+            "version": "4.0.0"
+        },
+        {
+            "no": 59,
+            "package": "@opentelemetry/sdk-trace-base",
+            "version": "0.25.0"
+        },
+        {
+            "no": 60,
+            "package": "gradle-to-js",
+            "version": "2.0.1"
+        },
+        {
+            "no": 61,
+            "package": "@novu/stateless",
+            "version": "0.22.0"
+        },
+        {
+            "no": 62,
+            "package": "@bolt/core-v3.x",
+            "version": "5.8.0"
+        },
+        {
+            "no": 63,
+            "package": "@dxos/codec-protobuf",
+            "version": "0.6.12-main.2d19bf1"
+        },
+        {
+            "no": 64,
+            "package": "@google-cloud/datastore",
+            "version": "1.4.2"
+        },
+        {
+            "no": 65,
+            "package": "@crawlee/browser-pool",
+            "version": "3.11.5"
+        },
+        {
+            "no": 66,
+            "package": "react-hot-loader",
+            "version": "4.5.3"
+        },
+        {
+            "no": 67,
+            "package": "@google-cloud/logging",
+            "version": "1.2.0"
+        },
+        {
+            "no": 68,
+            "package": "@opentelemetry/sdk-metrics-base",
+            "version": "0.27.0"
+        },
+        {
+            "no": 69,
+            "package": "devextreme-quill",
+            "version": "1.5.20"
+        },
+        {
+            "no": 70,
+            "package": "@front.build/fullstack",
+            "version": "1.1.0"
+        },
+        {
+            "no": 71,
+            "package": "@aws-lambda-powertools/logger",
+            "version": "1.18.1"
+        },
+        {
+            "no": 72,
+            "package": "@opentelemetry/metrics",
+            "version": "0.20.0"
+        },
+        {
+            "no": 73,
+            "package": "mui-datatables",
+            "version": "4.3.0"
+        },
+        {
+            "no": 74,
+            "package": "class-validator-jsonschema",
+            "version": "3.1.1"
+        },
+        {
+            "no": 75,
+            "package": "auto-config-loader",
+            "version": "1.7.7"
+        },
+        {
+            "no": 76,
+            "package": "rollup-plugin-filesize",
+            "version": "6.2.1"
+        },
+        {
+            "no": 77,
+            "package": "@ladle/react",
+            "version": "2.5.1"
+        },
+        {
+            "no": 78,
+            "package": "@bolt/core",
+            "version": "2.11.0-canary.2fa99416a.0"
+        },
+        {
+            "no": 79,
+            "package": "@web3-onboard/core",
+            "version": "2.23.0"
+        },
+        {
+            "no": 80,
+            "package": "redux-storage-merger-simple",
+            "version": "1.0.5"
+        },
+        {
+            "no": 81,
+            "package": "jovo-core",
+            "version": "3.6.1"
+        },
+        {
+            "no": 82,
+            "package": "yaml-include",
+            "version": "1.2.1"
+        },
+        {
+            "no": 83,
+            "package": "kubernetes-client",
+            "version": "3.18.1"
+        },
+        {
+            "no": 84,
+            "package": "@teleflow/stateless",
+            "version": "0.1.1"
+        },
+        {
+            "no": 85,
+            "package": "@wolfxlabs/stateless",
+            "version": "1.0.3"
+        },
+        {
+            "no": 86,
+            "package": "@feathersjs/authentication",
+            "version": "2.1.16"
+        },
+        {
+            "no": 87,
+            "package": "nuxt-i18n",
+            "version": "6.28.1"
+        },
+        {
+            "no": 88,
+            "package": "@feathersjs/authentication-jwt",
+            "version": "2.0.10"
+        },
+        {
+            "no": 89,
+            "package": "gulp-cli4",
+            "version": "0.1.0"
+        },
+        {
+            "no": 90,
+            "package": "@baifendian/adherev-util",
+            "version": "1.0.14"
+        },
+        {
+            "no": 91,
+            "package": "svg-sprite",
+            "version": "2.0.4"
+        },
+        {
+            "no": 92,
+            "package": "bhttp",
+            "version": "1.2.8"
+        },
+        {
+            "no": 93,
+            "package": "@scaleflex/ui",
+            "version": "2.10.27"
+        },
+        {
+            "no": 94,
+            "package": "@dxos/react-ui-theme",
+            "version": "0.6.12-main.2d19bf1"
+        },
+        {
+            "no": 95,
+            "package": "@protonapp/react-native-material-ui",
+            "version": "2.0.7"
+        },
+        {
+            "no": 96,
+            "package": "@bianic-ui/utils",
+            "version": "0.1.0-alpha.2"
+        },
+        {
+            "no": 97,
+            "package": "@ui-kitten/components",
+            "version": "5.3.1"
+        },
+        {
+            "no": 98,
+            "package": "jest-environment-emit",
+            "version": "1.0.8"
+        },
+        {
+            "no": 99,
+            "package": "@pandacss/core",
+            "version": "0.29.1"
+        },
+        {
+            "no": 100,
+            "package": "bodybuilder",
+            "version": "2.5.1"
+        }
+    ]
+}

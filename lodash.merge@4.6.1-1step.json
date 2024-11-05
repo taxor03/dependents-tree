@@ -1,0 +1,397 @@
+{
+    "package": "lodash.merge",
+    "version": "4.6.1",
+    "dep_nums": 78,
+    "dependents": [
+        {
+            "no": 1,
+            "package": "@commitlint/resolve-extends",
+            "version": "6.1.3"
+        },
+        {
+            "no": 2,
+            "package": "@commitlint/load",
+            "version": "6.1.3"
+        },
+        {
+            "no": 3,
+            "package": "@commitlint/cli",
+            "version": "6.2.0"
+        },
+        {
+            "no": 4,
+            "package": "gradle-to-js",
+            "version": "1.2.1"
+        },
+        {
+            "no": 5,
+            "package": "@everymatrix/ufe-react",
+            "version": "0.0.1"
+        },
+        {
+            "no": 6,
+            "package": "@uppy/companion",
+            "version": "1.0.0"
+        },
+        {
+            "no": 7,
+            "package": "metalsmith-json-loader",
+            "version": "1.1.2"
+        },
+        {
+            "no": 8,
+            "package": "find-config-up",
+            "version": "1.1.1"
+        },
+        {
+            "no": 9,
+            "package": "@scispike/nodejs-support",
+            "version": "1.2.0-rc.1"
+        },
+        {
+            "no": 10,
+            "package": "js-gardener",
+            "version": "1.31.7"
+        },
+        {
+            "no": 11,
+            "package": "babel-preset-kyt-core",
+            "version": "1.0.0-alpha.023d1a5e"
+        },
+        {
+            "no": 12,
+            "package": "hornet-js-passport",
+            "version": "5.4.0"
+        },
+        {
+            "no": 13,
+            "package": "browsertime",
+            "version": "3.0.1"
+        },
+        {
+            "no": 14,
+            "package": "@increment/graphql",
+            "version": "0.25.0"
+        },
+        {
+            "no": 15,
+            "package": "lambda-serverless-api",
+            "version": "1.11.0"
+        },
+        {
+            "no": 16,
+            "package": "@feathers-plus/generator-feathers-plus",
+            "version": "0.2.31"
+        },
+        {
+            "no": 17,
+            "package": "@commitlint/config-patternplate",
+            "version": "6.1.3"
+        },
+        {
+            "no": 18,
+            "package": "sitespeed.io",
+            "version": "6.5.4"
+        },
+        {
+            "no": 19,
+            "package": "webcoach",
+            "version": "3.1.1"
+        },
+        {
+            "no": 20,
+            "package": "flow-mono-cli",
+            "version": "1.4.0"
+        },
+        {
+            "no": 21,
+            "package": "ember-custom-actions",
+            "version": "3.0.0"
+        },
+        {
+            "no": 22,
+            "package": "@dwp/govuk-casa",
+            "version": "2.3.0"
+        },
+        {
+            "no": 23,
+            "package": "create-treats-app",
+            "version": "0.1.0-alpha"
+        },
+        {
+            "no": 24,
+            "package": "@idearium/cli",
+            "version": "1.0.0"
+        },
+        {
+            "no": 25,
+            "package": "create-config",
+            "version": "2.0.0"
+        },
+        {
+            "no": 26,
+            "package": "dimi",
+            "version": "1.0.0"
+        },
+        {
+            "no": 27,
+            "package": "shrimpit",
+            "version": "0.17.0"
+        },
+        {
+            "no": 28,
+            "package": "sloth-logger",
+            "version": "2.0.0"
+        },
+        {
+            "no": 29,
+            "package": "then-busboy",
+            "version": "2.1.5"
+        },
+        {
+            "no": 30,
+            "package": "freetool",
+            "version": "0.0.4"
+        },
+        {
+            "no": 31,
+            "package": "mockfoundry",
+            "version": "1.0.0-alpha.2"
+        },
+        {
+            "no": 32,
+            "package": "config-js",
+            "version": "1.1.10"
+        },
+        {
+            "no": 33,
+            "package": "@feathers-plus/graphql",
+            "version": "1.10.0"
+        },
+        {
+            "no": 34,
+            "package": "@cotype/serverless-next",
+            "version": "0.1.3"
+        },
+        {
+            "no": 35,
+            "package": "lmr-brandplatform-test-1",
+            "version": "1.0.0"
+        },
+        {
+            "no": 36,
+            "package": "lmr-brandplatform",
+            "version": "1.0.0"
+        },
+        {
+            "no": 37,
+            "package": "lambundaler",
+            "version": "0.11.0"
+        },
+        {
+            "no": 38,
+            "package": "laborious",
+            "version": "0.1.0"
+        },
+        {
+            "no": 39,
+            "package": "arui-scripts",
+            "version": "2.0.0"
+        },
+        {
+            "no": 40,
+            "package": "kyt",
+            "version": "1.0.0-alpha.023d1a5e"
+        },
+        {
+            "no": 41,
+            "package": "koa-app-base",
+            "version": "3.0.0"
+        },
+        {
+            "no": 42,
+            "package": "apidoc2dts",
+            "version": "1.0.0"
+        },
+        {
+            "no": 43,
+            "package": "@farskid/a11y",
+            "version": "0.3.0"
+        },
+        {
+            "no": 44,
+            "package": "ko-component-tester-fork",
+            "version": "3.3.2"
+        },
+        {
+            "no": 45,
+            "package": "ut-rule",
+            "version": "9.20.0"
+        },
+        {
+            "no": 46,
+            "package": "materialize-react",
+            "version": "0.3.0"
+        },
+        {
+            "no": 47,
+            "package": "json-schema-to-proptypes",
+            "version": "0.1.0"
+        },
+        {
+            "no": 48,
+            "package": "ut-port-sql",
+            "version": "7.5.0-rc-godfather.10"
+        },
+        {
+            "no": 49,
+            "package": "node-red-contrib-home-assistant-websocket",
+            "version": "0.10.0"
+        },
+        {
+            "no": 50,
+            "package": "nodebb-plugin-imgbed",
+            "version": "1.1.0"
+        },
+        {
+            "no": 51,
+            "package": "parasprite",
+            "version": "1.0.0-beta.8"
+        },
+        {
+            "no": 52,
+            "package": "react-month-picker-calendar",
+            "version": "1.1.11"
+        },
+        {
+            "no": 53,
+            "package": "react-visual-regression",
+            "version": "0.0.10"
+        },
+        {
+            "no": 54,
+            "package": "serverless-vpc-plugin",
+            "version": "0.1.8"
+        },
+        {
+            "no": 55,
+            "package": "ut-port-schedule",
+            "version": "6.0.1"
+        },
+        {
+            "no": 56,
+            "package": "simplidata-web-sdk",
+            "version": "0.2.0"
+        },
+        {
+            "no": 57,
+            "package": "jest-axe",
+            "version": "2.1.3"
+        },
+        {
+            "no": 58,
+            "package": "@visionagency/feathers-plus-graphql",
+            "version": "1.10.0"
+        },
+        {
+            "no": 59,
+            "package": "ut-port-jsonrpc",
+            "version": "6.4.0-rc-godfather.1"
+        },
+        {
+            "no": 60,
+            "package": "treats",
+            "version": "0.1.0-alpha"
+        },
+        {
+            "no": 61,
+            "package": "umeboshi-config-vue",
+            "version": "0.4.0"
+        },
+        {
+            "no": 62,
+            "package": "ut-codec-iso8583",
+            "version": "6.2.1"
+        },
+        {
+            "no": 63,
+            "package": "ut-port-ftp",
+            "version": "6.1.0-rc-diesel.0"
+        },
+        {
+            "no": 64,
+            "package": "ionic2-custom-icons",
+            "version": "0.6.0"
+        },
+        {
+            "no": 65,
+            "package": "ut-port-file",
+            "version": "6.2.0-rc-godfather.1"
+        },
+        {
+            "no": 66,
+            "package": "ut-front-react",
+            "version": "10.5.0-rc-godfather.2"
+        },
+        {
+            "no": 67,
+            "package": "ut-codec-payshield",
+            "version": "7.0.0-rc-dss.10"
+        },
+        {
+            "no": 68,
+            "package": "ut-port-http",
+            "version": "7.4.0-rc-godfather.0"
+        },
+        {
+            "no": 69,
+            "package": "ut-codec-ndc",
+            "version": "7.0.0-rc-dss.0"
+        },
+        {
+            "no": 70,
+            "package": "ut-port-mail",
+            "version": "7.2.0-rc-godfather.1"
+        },
+        {
+            "no": 71,
+            "package": "ghs-umami-tonkotsu-curator-compiler",
+            "version": "6.0.0"
+        },
+        {
+            "no": 72,
+            "package": "ut-port-script",
+            "version": "6.1.0-rc-godfather.1"
+        },
+        {
+            "no": 73,
+            "package": "@tadashi/unflatten-object",
+            "version": "1.0.0"
+        },
+        {
+            "no": 74,
+            "package": "ut-port-tcp",
+            "version": "6.2.0-rc-godfather.2"
+        },
+        {
+            "no": 75,
+            "package": "@shawee/thanos",
+            "version": "0.2.2"
+        },
+        {
+            "no": 76,
+            "package": "ut-tools",
+            "version": "6.10.0"
+        },
+        {
+            "no": 77,
+            "package": "@dylanvann/flow-mono-cli",
+            "version": "0.0.0-development"
+        },
+        {
+            "no": 78,
+            "package": "@biotope/build",
+            "version": "5.3.10"
+        }
+    ]
+}

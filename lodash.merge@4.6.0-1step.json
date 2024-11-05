@@ -1,0 +1,507 @@
+{
+    "package": "lodash.merge",
+    "version": "4.6.0",
+    "dep_nums": 110,
+    "dependents": [
+        {
+            "no": 1,
+            "package": "@commitlint/resolve-extends",
+            "version": "5.2.8"
+        },
+        {
+            "no": 2,
+            "package": "heroku-cli-addons",
+            "version": "1.2.26"
+        },
+        {
+            "no": 3,
+            "package": "@commitlint/core",
+            "version": "5.2.8"
+        },
+        {
+            "no": 4,
+            "package": "ut-port-jsonrpc",
+            "version": "5.6.12"
+        },
+        {
+            "no": 5,
+            "package": "ut-port-httpserver",
+            "version": "8.11.7"
+        },
+        {
+            "no": 6,
+            "package": "ut-run",
+            "version": "8.4.2"
+        },
+        {
+            "no": 7,
+            "package": "@commitlint/cli",
+            "version": "5.2.8"
+        },
+        {
+            "no": 8,
+            "package": "react-native-simple-store",
+            "version": "1.3.0"
+        },
+        {
+            "no": 9,
+            "package": "express-minify-html",
+            "version": "0.12.0"
+        },
+        {
+            "no": 10,
+            "package": "cli-engine-command",
+            "version": "4.0.3"
+        },
+        {
+            "no": 11,
+            "package": "cli-engine-heroku",
+            "version": "0.3.2"
+        },
+        {
+            "no": 12,
+            "package": "typeable",
+            "version": "0.21.0"
+        },
+        {
+            "no": 13,
+            "package": "amperize",
+            "version": "0.3.4"
+        },
+        {
+            "no": 14,
+            "package": "browsertime",
+            "version": "1.0.0-beta.10"
+        },
+        {
+            "no": 15,
+            "package": "trails",
+            "version": "3.2.2"
+        },
+        {
+            "no": 16,
+            "package": "materialize-react",
+            "version": "0.2.0-alpha.20"
+        },
+        {
+            "no": 17,
+            "package": "handleable",
+            "version": "0.17.0"
+        },
+        {
+            "no": 18,
+            "package": "webcoach",
+            "version": "0.29.0"
+        },
+        {
+            "no": 19,
+            "package": "sitespeed.io",
+            "version": "4.0.7"
+        },
+        {
+            "no": 20,
+            "package": "ut-front-react",
+            "version": "9.12.6"
+        },
+        {
+            "no": 21,
+            "package": "kyt",
+            "version": "0.9.0"
+        },
+        {
+            "no": 22,
+            "package": "ut-port-http",
+            "version": "7.3.0"
+        },
+        {
+            "no": 23,
+            "package": "kinvey-cli",
+            "version": "4.1.1"
+        },
+        {
+            "no": 24,
+            "package": "ut-port-script",
+            "version": "6.0.0"
+        },
+        {
+            "no": 25,
+            "package": "ut-rule",
+            "version": "5.8.22"
+        },
+        {
+            "no": 26,
+            "package": "@times-components/author-profile",
+            "version": "0.10.0"
+        },
+        {
+            "no": 27,
+            "package": "@tf2-pickup/components",
+            "version": "0.3.0"
+        },
+        {
+            "no": 28,
+            "package": "@digitaslbiparis/webcoach",
+            "version": "1.1.2"
+        },
+        {
+            "no": 29,
+            "package": "frack-core",
+            "version": "0.1.0"
+        },
+        {
+            "no": 30,
+            "package": "augur-node",
+            "version": "0.2.5"
+        },
+        {
+            "no": 31,
+            "package": "@commitlint/config-patternplate",
+            "version": "5.2.7"
+        },
+        {
+            "no": 32,
+            "package": "ut-port-sql",
+            "version": "7.4.0"
+        },
+        {
+            "no": 33,
+            "package": "ut-ussd",
+            "version": "6.8.0"
+        },
+        {
+            "no": 34,
+            "package": "js-gardener",
+            "version": "1.5.2"
+        },
+        {
+            "no": 35,
+            "package": "aor-simple-graphql-client",
+            "version": "0.0.1"
+        },
+        {
+            "no": 36,
+            "package": "lambundaler",
+            "version": "0.10.0"
+        },
+        {
+            "no": 37,
+            "package": "@lab009/app-config",
+            "version": "2.0.0"
+        },
+        {
+            "no": 38,
+            "package": "abacus-user-preferences-client",
+            "version": "1.0.1"
+        },
+        {
+            "no": 39,
+            "package": "kinase",
+            "version": "0.1.0"
+        },
+        {
+            "no": 40,
+            "package": "abacus-instrumentation-client",
+            "version": "1.0.0"
+        },
+        {
+            "no": 41,
+            "package": "@heroku-cli/plugin-addons",
+            "version": "1.2.26"
+        },
+        {
+            "no": 42,
+            "package": "@uphold/uphold-sdk-javascript",
+            "version": "1.0.0"
+        },
+        {
+            "no": 43,
+            "package": "insta-api-node",
+            "version": "0.0.1"
+        },
+        {
+            "no": 44,
+            "package": "@haiku/player",
+            "version": "2.0.100"
+        },
+        {
+            "no": 45,
+            "package": "ins-model",
+            "version": "0.0.1"
+        },
+        {
+            "no": 46,
+            "package": "ut-port-mail",
+            "version": "7.0.0"
+        },
+        {
+            "no": 47,
+            "package": "hyper-broadcast",
+            "version": "1.0.0"
+        },
+        {
+            "no": 48,
+            "package": "@rtobon/rumba",
+            "version": "1.5.4"
+        },
+        {
+            "no": 49,
+            "package": "@guumaster/rpgen",
+            "version": "0.0.4"
+        },
+        {
+            "no": 50,
+            "package": "insilico-tasks",
+            "version": "1.0.1"
+        },
+        {
+            "no": 51,
+            "package": "@deskproapps/deskproapps-sdk-react",
+            "version": "1.0.0-alpha.10"
+        },
+        {
+            "no": 52,
+            "package": "jira-rest-client",
+            "version": "1.0.0"
+        },
+        {
+            "no": 53,
+            "package": "jrbotros-test-tent",
+            "version": "0.1.10"
+        },
+        {
+            "no": 54,
+            "package": "ut-port-file",
+            "version": "6.0.0"
+        },
+        {
+            "no": 55,
+            "package": "haiku.ai",
+            "version": "2.0.10"
+        },
+        {
+            "no": 56,
+            "package": "@rtobon/app-config",
+            "version": "1.3.1"
+        },
+        {
+            "no": 57,
+            "package": "koa-app-base",
+            "version": "1.0.0"
+        },
+        {
+            "no": 58,
+            "package": "gulp-sitespeedio",
+            "version": "1.0.0"
+        },
+        {
+            "no": 59,
+            "package": "grunt-sitespeedio",
+            "version": "1.0.0"
+        },
+        {
+            "no": 60,
+            "package": "mad-spring-connect",
+            "version": "0.0.1"
+        },
+        {
+            "no": 61,
+            "package": "@ricardo-tobon/rumba",
+            "version": "1.5.4"
+        },
+        {
+            "no": 62,
+            "package": "micromono",
+            "version": "0.10.0"
+        },
+        {
+            "no": 63,
+            "package": "@graf009/app-config",
+            "version": "1.3.0"
+        },
+        {
+            "no": 64,
+            "package": "grunt-gardener",
+            "version": "1.0.0"
+        },
+        {
+            "no": 65,
+            "package": "ultraui",
+            "version": "1.4.5"
+        },
+        {
+            "no": 66,
+            "package": "@ricardo-tobon/app-config",
+            "version": "1.3.1"
+        },
+        {
+            "no": 67,
+            "package": "express-request-parameters",
+            "version": "0.1.0"
+        },
+        {
+            "no": 68,
+            "package": "then-busboy",
+            "version": "1.0.0"
+        },
+        {
+            "no": 69,
+            "package": "express-minify-html-terser",
+            "version": "1.0.0"
+        },
+        {
+            "no": 70,
+            "package": "@nas-user/rumba",
+            "version": "1.5.3"
+        },
+        {
+            "no": 71,
+            "package": "@fabrix/fabrix",
+            "version": "1.0.0-alpha.1"
+        },
+        {
+            "no": 72,
+            "package": "tessellate-fragment",
+            "version": "0.2.0"
+        },
+        {
+            "no": 73,
+            "package": "tarec",
+            "version": "1.3.0"
+        },
+        {
+            "no": 74,
+            "package": "sitespeed.webscanner",
+            "version": "5.3.4"
+        },
+        {
+            "no": 75,
+            "package": "ember-tachyons-sweeper",
+            "version": "0.0.1"
+        },
+        {
+            "no": 76,
+            "package": "@nas-user/app-config",
+            "version": "1.3.0"
+        },
+        {
+            "no": 77,
+            "package": "sitespeed",
+            "version": "4.3.4"
+        },
+        {
+            "no": 78,
+            "package": "tf2pickup-components",
+            "version": "0.2.0"
+        },
+        {
+            "no": 79,
+            "package": "shrimpit",
+            "version": "0.1.0"
+        },
+        {
+            "no": 80,
+            "package": "rf-db-settings",
+            "version": "0.0.2"
+        },
+        {
+            "no": 81,
+            "package": "config-man",
+            "version": "0.1.3"
+        },
+        {
+            "no": 82,
+            "package": "typeconf",
+            "version": "0.4.0"
+        },
+        {
+            "no": 83,
+            "package": "@namgoe/gcmsgen",
+            "version": "0.0.11"
+        },
+        {
+            "no": 84,
+            "package": "uni-config",
+            "version": "0.0.1"
+        },
+        {
+            "no": 85,
+            "package": "ut-codec",
+            "version": "5.10.0"
+        },
+        {
+            "no": 86,
+            "package": "ut-codec-iso8583",
+            "version": "6.1.0"
+        },
+        {
+            "no": 87,
+            "package": "ut-codec-ndc",
+            "version": "6.1.0"
+        },
+        {
+            "no": 88,
+            "package": "ut-codec-payshield",
+            "version": "6.1.0"
+        },
+        {
+            "no": 89,
+            "package": "react-native-xsy-store",
+            "version": "0.0.1"
+        },
+        {
+            "no": 90,
+            "package": "ut-port",
+            "version": "6.0.1"
+        },
+        {
+            "no": 91,
+            "package": "ut-port-amqp",
+            "version": "0.4.4"
+        },
+        {
+            "no": 92,
+            "package": "ut-port-console",
+            "version": "6.3.0"
+        },
+        {
+            "no": 93,
+            "package": "progressive-web-sdk",
+            "version": "0.15.5"
+        },
+        {
+            "no": 94,
+            "package": "patternplate-legacy-defaults",
+            "version": "1.2.0"
+        },
+        {
+            "no": 95,
+            "package": "buzzphrase",
+            "version": "2.4.0"
+        },
+        {
+            "no": 96,
+            "package": "@n8mellis/kyt",
+            "version": "0.5.4"
+        },
+        {
+            "no": 97,
+            "package": "parasprite",
+            "version": "1.0.0-beta.3"
+        },
+        {
+            "no": 98,
+            "package": "ut-port-schedule",
+            "version": "6.0.0"
+        },
+        {
+            "no": 99,
+            "package": "outliner-loader",
+            "version": "0.0.4"
+        },
+        {
+            "no": 100,
+            "package": "mtgnewsbot",
+            "version": "1.0.2"
+        }
+    ]
+}
